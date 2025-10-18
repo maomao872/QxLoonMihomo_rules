@@ -4,4 +4,6 @@
 # UPDATED: 2025-10-08 18:17:00
 HOST-SUFFIX,rooit.net,xo
 HOST-SUFFIX,imagedelivery.net,xo
-HOST,ipify.org,xo
+HOST-SUFFIX,ipfly.org,xo
+HOST-SUFFIX,web3modal.io,xo
+HOST-SUFFIX,particle.network,xo
