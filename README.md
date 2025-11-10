@@ -1,1 +1,1 @@
-# QuantumultX-rules
+# QxLoonMihomo_rules
